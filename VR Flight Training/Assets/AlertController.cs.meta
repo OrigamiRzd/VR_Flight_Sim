@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c567e0b9050d3f4aa30513fddc15f39
+timeCreated: 1524541022
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Green: {fileID: 2100000, guid: 8ed7c86a5f0231f4099c1959512439f3, type: 2}
+  - Yellow: {fileID: 2100000, guid: bba176a1c1401de4eada8148d874193b, type: 2}
+  - Red: {fileID: 2100000, guid: 18591e473db21b448b504a0a949e75b6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

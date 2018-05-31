@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 6c502bb8f7df0f74f90fc72eee956442
+timeCreated: 1495810660
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: areaLight1
+    100002: areaLight2
+    100004: //RootNode
+    100006: group1
+    100008: group2
+    100010: group3
+    100012: group37
+    100014: group38
+    100016: group39
+    100018: group4
+    100020: group40
+    100022: group41
+    100024: group42
+    100026: group43
+    100028: group44
+    100030: group6
+    100032: group7
+    100034: group9
+    100036: pCylinder156
+    100038: place3dTexture1
+    100040: place3dTexture2
+    100042: place3dTexture3
+    100044: place3dTexture4
+    100046: place3dTexture5
+    100048: place3dTexture6
+    100050: pointLight1
+    100052: pointLight2
+    100054: polySurface1494
+    100056: polySurface1495
+    100058: polySurface1496
+    100060: polySurface1497
+    100062: polySurface1498
+    100064: polySurface1499
+    100066: polySurface1500
+    100068: polySurface1501
+    100070: polySurface1502
+    100072: polySurface1503
+    100074: polySurface1504
+    100076: polySurface1505
+    100078: polySurface1506
+    100080: polySurface1507
+    100082: polySurface1508
+    100084: polySurface1509
+    100086: polySurface1510
+    100088: polySurface1511
+    100090: polySurface1512
+    100092: polySurface1513
+    100094: polySurface1514
+    100096: polySurface4882
+    100098: polySurface4883
+    100100: polySurface4884
+    100102: polySurface4885
+    100104: polySurface4886
+    100106: polySurface4887
+    100108: polySurface4888
+    100110: polySurface4889
+    100112: polySurface4890
+    100114: polySurface4891
+    100116: polySurface4892
+    100118: polySurface4893
+    100120: polySurface4894
+    100122: polySurface4895
+    100124: polySurface4896
+    100126: polySurface4897
+    100128: polySurface4898
+    100130: polySurface4899
+    100132: polySurface4900
+    100134: polySurface4901
+    100136: polySurface4902
+    100138: polySurface4903
+    100140: polySurface4904
+    100142: polySurface4905
+    100144: polySurface4906
+    100146: polySurface4907
+    100148: polySurface4908
+    100150: polySurface4909
+    100152: polySurface4910
+    100154: polySurface4911
+    100156: polySurface4912
+    100158: polySurface4930
+    100160: polySurface816
+    100162: polySurface817
+    100164: polySurface818
+    100166: polySurface819
+    100168: polySurface820
+    100170: polySurface821
+    100172: polySurface822
+    100174: polySurface823
+    100176: polySurface824
+    100178: polySurface825
+    100180: polySurface826
+    100182: polySurface827
+    100184: polySurface828
+    100186: polySurface829
+    100188: polySurface830
+    100190: polySurface831
+    100192: polySurface836
+    100194: polySurface837
+    100196: polySurface838
+    100198: polySurface839
+    100200: polySurface840
+    100202: polySurface841
+    100204: polySurface842
+    100206: polySurface843
+    100208: polySurface844
+    100210: polySurface845
+    100212: polySurface856
+    100214: polySurface856_MeshPart0
+    100216: polySurface856_MeshPart1
+    100218: polySurface856_MeshPart10
+    100220: polySurface856_MeshPart11
+    100222: polySurface856_MeshPart12
+    100224: polySurface856_MeshPart2
+    100226: polySurface856_MeshPart3
+    100228: polySurface856_MeshPart4
+    100230: polySurface856_MeshPart5
+    100232: polySurface856_MeshPart6
+    100234: polySurface856_MeshPart7
+    100236: polySurface856_MeshPart8
+    100238: polySurface856_MeshPart9
+    100240: Sun
+    100242: main_body
+    100244: main_body_MeshPart0
+    100246: main_body_MeshPart1
+    100248: main_body_MeshPart10
+    100250: main_body_MeshPart11
+    100252: main_body_MeshPart12
+    100254: main_body_MeshPart13
+    100256: main_body_MeshPart14
+    100258: main_body_MeshPart15
+    100260: main_body_MeshPart16
+    100262: main_body_MeshPart17
+    100264: main_body_MeshPart18
+    100266: main_body_MeshPart19
+    100268: main_body_MeshPart2
+    100270: main_body_MeshPart3
+    100272: main_body_MeshPart4
+    100274: main_body_MeshPart5
+    100276: main_body_MeshPart6
+    100278: main_body_MeshPart7
+    100280: main_body_MeshPart8
+    100282: main_body_MeshPart9
+    100284: throttle_left
+    100286: throttle_right
+    100288: yoke_left
+    100290: yoke_right
+    100292: yoke_stem_left
+    100294: yoke_stem_right
+    100296: Armature
+    100298: Bip01 R Finger0
+    100300: Bip01 R Finger01
+    100302: Bip01 R Finger02
+    100304: Bip01 R Finger02_end
+    100306: Bip01 R Finger043
+    100308: Bip01 R Finger044
+    100310: Bip01 R Finger045
+    100312: Bip01 R Finger045_end
+    100314: Bip01 R Finger046
+    100316: Bip01 R Finger047
+    100318: Bip01 R Finger048
+    100320: Bip01 R Finger048_end
+    100322: Bip01 R Finger049
+    100324: Bip01 R Finger050
+    100326: Bip01 R Finger051
+    100328: Bip01 R Finger051_end
+    100330: Bip01 R Finger052
+    100332: Bip01 R Finger053
+    100334: Bip01 R Finger054
+    100336: Bip01 R Finger054_end
+    100338: Bip01 R Finger055
+    100340: Bip01 R Finger056
+    100342: Bip01 R Finger057
+    100344: Bip01 R Finger057_end
+    100346: Bip01 R Finger1
+    100348: Bip01 R Finger11
+    100350: Bip01 R Finger12
+    100352: Bip01 R Finger12_end
+    100354: Bip01 R Finger2
+    100356: Bip01 R Finger21
+    100358: Bip01 R Finger22
+    100360: Bip01 R Finger22_end
+    100362: Bip01 R Finger3
+    100364: Bip01 R Finger31
+    100366: Bip01 R Finger32
+    100368: Bip01 R Finger32_end
+    100370: Bip01 R Finger4
+    100372: Bip01 R Finger41
+    100374: Bip01 R Finger42
+    100376: Bip01 R Finger42_end
+    100378: Bip01 R Forearm
+    100380: Bip01 R Forearm001
+    100382: Bip01 R ForeTwist
+    100384: Bip01 R ForeTwist005
+    100386: Bip01 R ForeTwist006
+    100388: Bip01 R ForeTwist007
+    100390: Bip01 R ForeTwist008
+    100392: Bip01 R ForeTwist009
+    100394: Bip01 R ForeTwist1
+    100396: Bip01 R ForeTwist2
+    100398: Bip01 R ForeTwist3
+    100400: Bip01 R ForeTwist4
+    100402: Bip01 R Hand
+    100404: Bip01 R Hand001
+    100406: male_arm_left
+    100408: male_arm_right
+    100410: cockpit_door
+    100412: HUD
+    100414: autopilot_alt
+    100416: autopilot_hdg
+    100418: autopilot_spd
+    100420: main_body.001
+    100422: Plane
+    100424: main_body.002
+    100426: main_body.002_MeshPart0
+    100428: main_body.002_MeshPart1
+    100430: main_body.002_MeshPart2
+    100432: main_body.002_MeshPart3
+    100434: main_body.002_MeshPart4
+    100436: main_body.002_MeshPart5
+    100438: main_body.002_MeshPart6
+    100440: main_body.002_MeshPart7
+    100442: main_body.003
+    100444: main_body.003_MeshPart0
+    100446: main_body.003_MeshPart1
+    100448: main_body.003_MeshPart2
+    100450: shades
+    400000: areaLight1
+    400002: areaLight2
+    400004: //RootNode
+    400006: group1
+    400008: group2
+    400010: group3
+    400012: group37
+    400014: group38
+    400016: group39
+    400018: group4
+    400020: group40
+    400022: group41
+    400024: group42
+    400026: group43
+    400028: group44
+    400030: group6
+    400032: group7
+    400034: group9
+    400036: pCylinder156
+    400038: place3dTexture1
+    400040: place3dTexture2
+    400042: place3dTexture3
+    400044: place3dTexture4
+    400046: place3dTexture5
+    400048: place3dTexture6
+    400050: pointLight1
+    400052: pointLight2
+    400054: polySurface1494
+    400056: polySurface1495
+    400058: polySurface1496
+    400060: polySurface1497
+    400062: polySurface1498
+    400064: polySurface1499
+    400066: polySurface1500
+    400068: polySurface1501
+    400070: polySurface1502
+    400072: polySurface1503
+    400074: polySurface1504
+    400076: polySurface1505
+    400078: polySurface1506
+    400080: polySurface1507
+    400082: polySurface1508
+    400084: polySurface1509
+    400086: polySurface1510
+    400088: polySurface1511
+    400090: polySurface1512
+    400092: polySurface1513
+    400094: polySurface1514
+    400096: polySurface4882
+    400098: polySurface4883
+    400100: polySurface4884
+    400102: polySurface4885
+    400104: polySurface4886
+    400106: polySurface4887
+    400108: polySurface4888
+    400110: polySurface4889
+    400112: polySurface4890
+    400114: polySurface4891
+    400116: polySurface4892
+    400118: polySurface4893
+    400120: polySurface4894
+    400122: polySurface4895
+    400124: polySurface4896
+    400126: polySurface4897
+    400128: polySurface4898
+    400130: polySurface4899
+    400132: polySurface4900
+    400134: polySurface4901
+    400136: polySurface4902
+    400138: polySurface4903
+    400140: polySurface4904
+    400142: polySurface4905
+    400144: polySurface4906
+    400146: polySurface4907
+    400148: polySurface4908
+    400150: polySurface4909
+    400152: polySurface4910
+    400154: polySurface4911
+    400156: polySurface4912
+    400158: polySurface4930
+    400160: polySurface816
+    400162: polySurface817
+    400164: polySurface818
+    400166: polySurface819
+    400168: polySurface820
+    400170: polySurface821
+    400172: polySurface822
+    400174: polySurface823
+    400176: polySurface824
+    400178: polySurface825
+    400180: polySurface826
+    400182: polySurface827
+    400184: polySurface828
+    400186: polySurface829
+    400188: polySurface830
+    400190: polySurface831
+    400192: polySurface836
+    400194: polySurface837
+    400196: polySurface838
+    400198: polySurface839
+    400200: polySurface840
+    400202: polySurface841
+    400204: polySurface842
+    400206: polySurface843
+    400208: polySurface844
+    400210: polySurface845
+    400212: polySurface856
+    400214: polySurface856_MeshPart0
+    400216: polySurface856_MeshPart1
+    400218: polySurface856_MeshPart10
+    400220: polySurface856_MeshPart11
+    400222: polySurface856_MeshPart12
+    400224: polySurface856_MeshPart2
+    400226: polySurface856_MeshPart3
+    400228: polySurface856_MeshPart4
+    400230: polySurface856_MeshPart5
+    400232: polySurface856_MeshPart6
+    400234: polySurface856_MeshPart7
+    400236: polySurface856_MeshPart8
+    400238: polySurface856_MeshPart9
+    400240: Sun
+    400242: main_body
+    400244: main_body_MeshPart0
+    400246: main_body_MeshPart1
+    400248: main_body_MeshPart10
+    400250: main_body_MeshPart11
+    400252: main_body_MeshPart12
+    400254: main_body_MeshPart13
+    400256: main_body_MeshPart14
+    400258: main_body_MeshPart15
+    400260: main_body_MeshPart16
+    400262: main_body_MeshPart17
+    400264: main_body_MeshPart18
+    400266: main_body_MeshPart19
+    400268: main_body_MeshPart2
+    400270: main_body_MeshPart3
+    400272: main_body_MeshPart4
+    400274: main_body_MeshPart5
+    400276: main_body_MeshPart6
+    400278: main_body_MeshPart7
+    400280: main_body_MeshPart8
+    400282: main_body_MeshPart9
+    400284: throttle_left
+    400286: throttle_right
+    400288: yoke_left
+    400290: yoke_right
+    400292: yoke_stem_left
+    400294: yoke_stem_right
+    400296: Armature
+    400298: Bip01 R Finger0
+    400300: Bip01 R Finger01
+    400302: Bip01 R Finger02
+    400304: Bip01 R Finger02_end
+    400306: Bip01 R Finger043
+    400308: Bip01 R Finger044
+    400310: Bip01 R Finger045
+    400312: Bip01 R Finger045_end
+    400314: Bip01 R Finger046
+    400316: Bip01 R Finger047
+    400318: Bip01 R Finger048
+    400320: Bip01 R Finger048_end
+    400322: Bip01 R Finger049
+    400324: Bip01 R Finger050
+    400326: Bip01 R Finger051
+    400328: Bip01 R Finger051_end
+    400330: Bip01 R Finger052
+    400332: Bip01 R Finger053
+    400334: Bip01 R Finger054
+    400336: Bip01 R Finger054_end
+    400338: Bip01 R Finger055
+    400340: Bip01 R Finger056
+    400342: Bip01 R Finger057
+    400344: Bip01 R Finger057_end
+    400346: Bip01 R Finger1
+    400348: Bip01 R Finger11
+    400350: Bip01 R Finger12
+    400352: Bip01 R Finger12_end
+    400354: Bip01 R Finger2
+    400356: Bip01 R Finger21
+    400358: Bip01 R Finger22
+    400360: Bip01 R Finger22_end
+    400362: Bip01 R Finger3
+    400364: Bip01 R Finger31
+    400366: Bip01 R Finger32
+    400368: Bip01 R Finger32_end
+    400370: Bip01 R Finger4
+    400372: Bip01 R Finger41
+    400374: Bip01 R Finger42
+    400376: Bip01 R Finger42_end
+    400378: Bip01 R Forearm
+    400380: Bip01 R Forearm001
+    400382: Bip01 R ForeTwist
+    400384: Bip01 R ForeTwist005
+    400386: Bip01 R ForeTwist006
+    400388: Bip01 R ForeTwist007
+    400390: Bip01 R ForeTwist008
+    400392: Bip01 R ForeTwist009
+    400394: Bip01 R ForeTwist1
+    400396: Bip01 R ForeTwist2
+    400398: Bip01 R ForeTwist3
+    400400: Bip01 R ForeTwist4
+    400402: Bip01 R Hand
+    400404: Bip01 R Hand001
+    400406: male_arm_left
+    400408: male_arm_right
+    400410: cockpit_door
+    400412: HUD
+    400414: autopilot_alt
+    400416: autopilot_hdg
+    400418: autopilot_spd
+    400420: main_body.001
+    400422: Plane
+    400424: main_body.002
+    400426: main_body.002_MeshPart0
+    400428: main_body.002_MeshPart1
+    400430: main_body.002_MeshPart2
+    400432: main_body.002_MeshPart3
+    400434: main_body.002_MeshPart4
+    400436: main_body.002_MeshPart5
+    400438: main_body.002_MeshPart6
+    400440: main_body.002_MeshPart7
+    400442: main_body.003
+    400444: main_body.003_MeshPart0
+    400446: main_body.003_MeshPart1
+    400448: main_body.003_MeshPart2
+    400450: shades
+    2300000: pCylinder156
+    2300002: polySurface1494
+    2300004: polySurface1495
+    2300006: polySurface1496
+    2300008: polySurface1497
+    2300010: polySurface1498
+    2300012: polySurface1499
+    2300014: polySurface1500
+    2300016: polySurface1501
+    2300018: polySurface1502
+    2300020: polySurface1503
+    2300022: polySurface1504
+    2300024: polySurface1505
+    2300026: polySurface1506
+    2300028: polySurface1507
+    2300030: polySurface1508
+    2300032: polySurface1509
+    2300034: polySurface1510
+    2300036: polySurface1511
+    2300038: polySurface1512
+    2300040: polySurface1513
+    2300042: polySurface1514
+    2300044: polySurface4882
+    2300046: polySurface4883
+    2300048: polySurface4884
+    2300050: polySurface4885
+    2300052: polySurface4886
+    2300054: polySurface4887
+    2300056: polySurface4888
+    2300058: polySurface4889
+    2300060: polySurface4890
+    2300062: polySurface4891
+    2300064: polySurface4892
+    2300066: polySurface4893
+    2300068: polySurface4894
+    2300070: polySurface4895
+    2300072: polySurface4896
+    2300074: polySurface4897
+    2300076: polySurface4898
+    2300078: polySurface4899
+    2300080: polySurface4900
+    2300082: polySurface4901
+    2300084: polySurface4902
+    2300086: polySurface4903
+    2300088: polySurface4904
+    2300090: polySurface4905
+    2300092: polySurface4906
+    2300094: polySurface4907
+    2300096: polySurface4908
+    2300098: polySurface4909
+    2300100: polySurface4910
+    2300102: polySurface4911
+    2300104: polySurface4912
+    2300106: polySurface4930
+    2300108: polySurface816
+    2300110: polySurface817
+    2300112: polySurface818
+    2300114: polySurface819
+    2300116: polySurface820
+    2300118: polySurface821
+    2300120: polySurface822
+    2300122: polySurface823
+    2300124: polySurface824
+    2300126: polySurface825
+    2300128: polySurface826
+    2300130: polySurface827
+    2300132: polySurface828
+    2300134: polySurface829
+    2300136: polySurface830
+    2300138: polySurface831
+    2300140: polySurface836
+    2300142: polySurface837
+    2300144: polySurface838
+    2300146: polySurface839
+    2300148: polySurface840
+    2300150: polySurface841
+    2300152: polySurface842
+    2300154: polySurface843
+    2300156: polySurface844
+    2300158: polySurface845
+    2300160: polySurface856_MeshPart0
+    2300162: polySurface856_MeshPart1
+    2300164: polySurface856_MeshPart10
+    2300166: polySurface856_MeshPart11
+    2300168: polySurface856_MeshPart12
+    2300170: polySurface856_MeshPart2
+    2300172: polySurface856_MeshPart3
+    2300174: polySurface856_MeshPart4
+    2300176: polySurface856_MeshPart5
+    2300178: polySurface856_MeshPart6
+    2300180: polySurface856_MeshPart7
+    2300182: polySurface856_MeshPart8
+    2300184: polySurface856_MeshPart9
+    2300186: main_body_MeshPart0
+    2300188: main_body_MeshPart1
+    2300190: main_body_MeshPart10
+    2300192: main_body_MeshPart11
+    2300194: main_body_MeshPart12
+    2300196: main_body_MeshPart13
+    2300198: main_body_MeshPart14
+    2300200: main_body_MeshPart15
+    2300202: main_body_MeshPart16
+    2300204: main_body_MeshPart17
+    2300206: main_body_MeshPart18
+    2300208: main_body_MeshPart19
+    2300210: main_body_MeshPart2
+    2300212: main_body_MeshPart3
+    2300214: main_body_MeshPart4
+    2300216: main_body_MeshPart5
+    2300218: main_body_MeshPart6
+    2300220: main_body_MeshPart7
+    2300222: main_body_MeshPart8
+    2300224: main_body_MeshPart9
+    2300226: throttle_left
+    2300228: throttle_right
+    2300230: yoke_left
+    2300232: yoke_right
+    2300234: yoke_stem_left
+    2300236: yoke_stem_right
+    2300238: male_arm_left
+    2300240: male_arm_right
+    2300242: cockpit_door
+    2300244: HUD
+    2300246: autopilot_alt
+    2300248: autopilot_hdg
+    2300250: autopilot_spd
+    2300252: main_body.001
+    2300254: Plane
+    2300256: main_body.002_MeshPart0
+    2300258: main_body.002_MeshPart1
+    2300260: main_body.002_MeshPart2
+    2300262: main_body.002_MeshPart3
+    2300264: main_body.002_MeshPart4
+    2300266: main_body.002_MeshPart5
+    2300268: main_body.002_MeshPart6
+    2300270: main_body.002_MeshPart7
+    2300272: main_body.003_MeshPart0
+    2300274: main_body.003_MeshPart1
+    2300276: main_body.003_MeshPart2
+    2300278: shades
+    3300000: pCylinder156
+    3300002: polySurface1494
+    3300004: polySurface1495
+    3300006: polySurface1496
+    3300008: polySurface1497
+    3300010: polySurface1498
+    3300012: polySurface1499
+    3300014: polySurface1500
+    3300016: polySurface1501
+    3300018: polySurface1502
+    3300020: polySurface1503
+    3300022: polySurface1504
+    3300024: polySurface1505
+    3300026: polySurface1506
+    3300028: polySurface1507
+    3300030: polySurface1508
+    3300032: polySurface1509
+    3300034: polySurface1510
+    3300036: polySurface1511
+    3300038: polySurface1512
+    3300040: polySurface1513
+    3300042: polySurface1514
+    3300044: polySurface4882
+    3300046: polySurface4883
+    3300048: polySurface4884
+    3300050: polySurface4885
+    3300052: polySurface4886
+    3300054: polySurface4887
+    3300056: polySurface4888
+    3300058: polySurface4889
+    3300060: polySurface4890
+    3300062: polySurface4891
+    3300064: polySurface4892
+    3300066: polySurface4893
+    3300068: polySurface4894
+    3300070: polySurface4895
+    3300072: polySurface4896
+    3300074: polySurface4897
+    3300076: polySurface4898
+    3300078: polySurface4899
+    3300080: polySurface4900
+    3300082: polySurface4901
+    3300084: polySurface4902
+    3300086: polySurface4903
+    3300088: polySurface4904
+    3300090: polySurface4905
+    3300092: polySurface4906
+    3300094: polySurface4907
+    3300096: polySurface4908
+    3300098: polySurface4909
+    3300100: polySurface4910
+    3300102: polySurface4911
+    3300104: polySurface4912
+    3300106: polySurface4930
+    3300108: polySurface816
+    3300110: polySurface817
+    3300112: polySurface818
+    3300114: polySurface819
+    3300116: polySurface820
+    3300118: polySurface821
+    3300120: polySurface822
+    3300122: polySurface823
+    3300124: polySurface824
+    3300126: polySurface825
+    3300128: polySurface826
+    3300130: polySurface827
+    3300132: polySurface828
+    3300134: polySurface829
+    3300136: polySurface830
+    3300138: polySurface831
+    3300140: polySurface836
+    3300142: polySurface837
+    3300144: polySurface838
+    3300146: polySurface839
+    3300148: polySurface840
+    3300150: polySurface841
+    3300152: polySurface842
+    3300154: polySurface843
+    3300156: polySurface844
+    3300158: polySurface845
+    3300160: polySurface856_MeshPart0
+    3300162: polySurface856_MeshPart1
+    3300164: polySurface856_MeshPart10
+    3300166: polySurface856_MeshPart11
+    3300168: polySurface856_MeshPart12
+    3300170: polySurface856_MeshPart2
+    3300172: polySurface856_MeshPart3
+    3300174: polySurface856_MeshPart4
+    3300176: polySurface856_MeshPart5
+    3300178: polySurface856_MeshPart6
+    3300180: polySurface856_MeshPart7
+    3300182: polySurface856_MeshPart8
+    3300184: polySurface856_MeshPart9
+    3300186: main_body_MeshPart0
+    3300188: main_body_MeshPart1
+    3300190: main_body_MeshPart10
+    3300192: main_body_MeshPart11
+    3300194: main_body_MeshPart12
+    3300196: main_body_MeshPart13
+    3300198: main_body_MeshPart14
+    3300200: main_body_MeshPart15
+    3300202: main_body_MeshPart16
+    3300204: main_body_MeshPart17
+    3300206: main_body_MeshPart18
+    3300208: main_body_MeshPart19
+    3300210: main_body_MeshPart2
+    3300212: main_body_MeshPart3
+    3300214: main_body_MeshPart4
+    3300216: main_body_MeshPart5
+    3300218: main_body_MeshPart6
+    3300220: main_body_MeshPart7
+    3300222: main_body_MeshPart8
+    3300224: main_body_MeshPart9
+    3300226: throttle_left
+    3300228: throttle_right
+    3300230: yoke_left
+    3300232: yoke_right
+    3300234: yoke_stem_left
+    3300236: yoke_stem_right
+    3300238: male_arm_left
+    3300240: male_arm_right
+    3300242: cockpit_door
+    3300244: HUD
+    3300246: autopilot_alt
+    3300248: autopilot_hdg
+    3300250: autopilot_spd
+    3300252: main_body.001
+    3300254: Plane
+    3300256: main_body.002_MeshPart0
+    3300258: main_body.002_MeshPart1
+    3300260: main_body.002_MeshPart2
+    3300262: main_body.002_MeshPart3
+    3300264: main_body.002_MeshPart4
+    3300266: main_body.002_MeshPart5
+    3300268: main_body.002_MeshPart6
+    3300270: main_body.002_MeshPart7
+    3300272: main_body.003_MeshPart0
+    3300274: main_body.003_MeshPart1
+    3300276: main_body.003_MeshPart2
+    3300278: shades
+    4300000: polySurface4912
+    4300002: polySurface4911
+    4300004: polySurface4910
+    4300006: polySurface4909
+    4300008: polySurface4896
+    4300010: polySurface4895
+    4300012: polySurface4893
+    4300014: polySurface4892
+    4300016: polySurface4891
+    4300018: polySurface4890
+    4300020: polySurface4882
+    4300022: polySurface1514
+    4300024: polySurface1513
+    4300026: polySurface1512
+    4300028: polySurface1511
+    4300030: polySurface1510
+    4300032: polySurface1509
+    4300034: polySurface1508
+    4300036: polySurface1507
+    4300038: polySurface1506
+    4300040: polySurface1505
+    4300042: polySurface1504
+    4300044: pCylinder156
+    4300046: polySurface4930
+    4300048: polySurface4888
+    4300050: polySurface4884
+    4300052: polySurface841
+    4300054: polySurface840
+    4300056: polySurface4889
+    4300058: polySurface4883
+    4300060: polySurface838
+    4300062: polySurface837
+    4300064: polySurface4908
+    4300066: polySurface4907
+    4300068: polySurface4906
+    4300070: polySurface4905
+    4300072: polySurface4904
+    4300074: polySurface4903
+    4300076: polySurface4902
+    4300078: polySurface4901
+    4300080: polySurface4900
+    4300082: polySurface4899
+    4300084: polySurface4898
+    4300086: polySurface4897
+    4300088: polySurface4894
+    4300090: polySurface4887
+    4300092: polySurface4886
+    4300094: polySurface4885
+    4300096: polySurface1503
+    4300098: polySurface1502
+    4300100: polySurface1501
+    4300102: polySurface1500
+    4300104: polySurface1499
+    4300106: polySurface1498
+    4300108: polySurface1497
+    4300110: polySurface1496
+    4300112: polySurface1495
+    4300114: polySurface1494
+    4300116: polySurface856_MeshPart0
+    4300118: polySurface856_MeshPart1
+    4300120: polySurface856_MeshPart2
+    4300122: polySurface856_MeshPart3
+    4300124: polySurface856_MeshPart4
+    4300126: polySurface856_MeshPart5
+    4300128: polySurface856_MeshPart6
+    4300130: polySurface856_MeshPart7
+    4300132: polySurface856_MeshPart8
+    4300134: polySurface856_MeshPart9
+    4300136: polySurface856_MeshPart10
+    4300138: polySurface856_MeshPart11
+    4300140: polySurface856_MeshPart12
+    4300142: polySurface845
+    4300144: polySurface844
+    4300146: polySurface843
+    4300148: polySurface842
+    4300150: polySurface839
+    4300152: polySurface836
+    4300154: polySurface831
+    4300156: polySurface830
+    4300158: polySurface829
+    4300160: polySurface828
+    4300162: polySurface827
+    4300164: polySurface826
+    4300166: polySurface825
+    4300168: polySurface824
+    4300170: polySurface823
+    4300172: polySurface822
+    4300174: polySurface821
+    4300176: polySurface820
+    4300178: polySurface819
+    4300180: polySurface818
+    4300182: polySurface817
+    4300184: polySurface816
+    4300186: throttle_left
+    4300188: throttle_right
+    4300190: yoke_stem_right
+    4300192: yoke_right
+    4300194: main_body_MeshPart0
+    4300196: main_body_MeshPart1
+    4300198: main_body_MeshPart2
+    4300200: main_body_MeshPart3
+    4300202: main_body_MeshPart4
+    4300204: main_body_MeshPart5
+    4300206: main_body_MeshPart6
+    4300208: main_body_MeshPart7
+    4300210: main_body_MeshPart8
+    4300212: main_body_MeshPart9
+    4300214: main_body_MeshPart10
+    4300216: main_body_MeshPart11
+    4300218: main_body_MeshPart12
+    4300220: main_body_MeshPart13
+    4300222: main_body_MeshPart14
+    4300224: main_body_MeshPart15
+    4300226: main_body_MeshPart16
+    4300228: main_body_MeshPart17
+    4300230: main_body_MeshPart18
+    4300232: main_body_MeshPart19
+    4300234: yoke_stem_left
+    4300236: yoke_left
+    4300238: male_arm_left
+    4300240: male_arm_right
+    4300242: cockpit_door
+    4300244: HUD
+    4300246: autopilot_alt
+    4300248: autopilot_hdg
+    4300250: autopilot_spd
+    4300252: main_body.001
+    4300254: Plane
+    4300256: main_body.003_MeshPart0
+    4300258: main_body.003_MeshPart1
+    4300260: main_body.003_MeshPart2
+    4300262: main_body.002_MeshPart0
+    4300264: main_body.002_MeshPart1
+    4300266: main_body.002_MeshPart2
+    4300268: main_body.002_MeshPart3
+    4300270: main_body.002_MeshPart4
+    4300272: main_body.002_MeshPart5
+    4300274: main_body.002_MeshPart6
+    4300276: main_body.002_MeshPart7
+    4300278: shades
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: male_arm_left
+    13700002: male_arm_right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
